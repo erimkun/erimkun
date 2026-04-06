@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Gokyuzu dongusu</title>
+  <desc id="desc">Gunes dogar ve batar, ay cikar, patlar, hilale donusur ve yildizlar isildamaya devam eder.</desc>
+
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#79ceff">
+        <animate
+          attributeName="stop-color"
+          begin="0s"
+          dur="12s"
+          fill="freeze"
+          values="#79ceff;#ff9e67;#101a45"
+          keyTimes="0;0.65;1"
+        />
+      </stop>
+      <stop offset="100%" stop-color="#f4d79f">
+        <animate
+          attributeName="stop-color"
+          begin="0s"
+          dur="12s"
+          fill="freeze"
+          values="#f4d79f;#4b3e68;#070b23"
+          keyTimes="0;0.65;1"
+        />
+      </stop>
+    </linearGradient>
+
+    <radialGradient id="sunGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffe38f" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#ffe38f" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#sky)" />
+
+  <ellipse cx="600" cy="260" rx="520" ry="90" fill="#0f162f" opacity="0.18">
+    <animate attributeName="opacity" begin="0s" dur="12s" values="0.05;0.12;0.28" keyTimes="0;0.65;1" fill="freeze" />
+  </ellipse>
+
+  <!-- Sun rise + set -->
+  <g>
+    <circle cx="140" cy="252" r="70" fill="url(#sunGlow)" opacity="0">
+      <animate attributeName="opacity" begin="0s" dur="0.7s" from="0" to="1" fill="freeze" />
+      <animateMotion begin="0.2s" dur="7.4s" fill="freeze" path="M0 0 Q 340 -190 700 0" />
+      <animate attributeName="opacity" begin="7.6s" dur="1.2s" to="0" fill="freeze" />
+    </circle>
+
+    <circle cx="140" cy="252" r="36" fill="#ffd45f" opacity="0">
+      <animate attributeName="opacity" begin="0s" dur="0.7s" from="0" to="1" fill="freeze" />
+      <animateMotion begin="0.2s" dur="7.4s" fill="freeze" path="M0 0 Q 340 -190 700 0" />
+      <animate attributeName="opacity" begin="7.6s" dur="1.2s" to="0" fill="freeze" />
+    </circle>
+  </g>
+
+  <!-- Full moon appears -->
+  <g opacity="0">
+    <animate attributeName="opacity" begin="8.8s" dur="0.9s" from="0" to="1" fill="freeze" />
+    <animate attributeName="opacity" begin="12.2s" dur="0.5s" to="0" fill="freeze" />
+    <circle cx="860" cy="108" r="29" fill="#f6f8ff" />
+    <circle cx="847" cy="100" r="4" fill="#dce3ff" opacity="0.55" />
+    <circle cx="873" cy="117" r="3" fill="#dce3ff" opacity="0.45" />
+  </g>
+
+  <!-- Moon burst -->
+  <g fill="#dbe5ff" opacity="0">
+    <animate attributeName="opacity" begin="12s" dur="0.15s" from="0" to="1" fill="freeze" />
+    <animate attributeName="opacity" begin="12.35s" dur="0.9s" to="0" fill="freeze" />
+
+    <circle cx="860" cy="108" r="4.5">
+      <animate attributeName="cx" begin="12s" dur="0.9s" to="932" fill="freeze" />
+      <animate attributeName="cy" begin="12s" dur="0.9s" to="96" fill="freeze" />
+      <animate attributeName="r" begin="12s" dur="0.9s" to="1.2" fill="freeze" />
+    </circle>
+    <circle cx="860" cy="108" r="4.5">
+      <animate attributeName="cx" begin="12s" dur="0.9s" to="803" fill="freeze" />
+      <animate attributeName="cy" begin="12s" dur="0.9s" to="74" fill="freeze" />
+      <animate attributeName="r" begin="12s" dur="0.9s" to="1.1" fill="freeze" />
+    </circle>
+    <circle cx="860" cy="108" r="4.5">
+      <animate attributeName="cx" begin="12s" dur="0.9s" to="900" fill="freeze" />
+      <animate attributeName="cy" begin="12s" dur="0.9s" to="167" fill="freeze" />
+      <animate attributeName="r" begin="12s" dur="0.9s" to="1.3" fill="freeze" />
+    </circle>
+    <circle cx="860" cy="108" r="4.5">
+      <animate attributeName="cx" begin="12s" dur="0.9s" to="790" fill="freeze" />
+      <animate attributeName="cy" begin="12s" dur="0.9s" to="150" fill="freeze" />
+      <animate attributeName="r" begin="12s" dur="0.9s" to="1.1" fill="freeze" />
+    </circle>
+    <circle cx="860" cy="108" r="4.5">
+      <animate attributeName="cx" begin="12s" dur="0.9s" to="866" fill="freeze" />
+      <animate attributeName="cy" begin="12s" dur="0.9s" to="40" fill="freeze" />
+      <animate attributeName="r" begin="12s" dur="0.9s" to="1.0" fill="freeze" />
+    </circle>
+  </g>
+
+  <!-- Crescent stays -->
+  <g opacity="0">
+    <animate attributeName="opacity" begin="13s" dur="0.7s" from="0" to="1" fill="freeze" />
+    <circle cx="860" cy="108" r="28" fill="#f8fbff" />
+    <circle cx="874" cy="100" r="24" fill="#0b1338" />
+  </g>
+
+  <!-- Sparkles only after crescent -->
+  <g opacity="0" fill="#ffffff">
+    <animate attributeName="opacity" begin="14s" dur="0.5s" from="0" to="1" fill="freeze" />
+
+    <circle cx="745" cy="70" r="2">
+      <animate attributeName="opacity" begin="14s" dur="2.4s" values="0.2;1;0.2" repeatCount="indefinite" />
+    </circle>
+    <circle cx="930" cy="58" r="2.2">
+      <animate attributeName="opacity" begin="14.6s" dur="2.1s" values="0.15;1;0.15" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1005" cy="95" r="1.8">
+      <animate attributeName="opacity" begin="14.2s" dur="2.7s" values="0.2;1;0.2" repeatCount="indefinite" />
+    </circle>
+    <circle cx="790" cy="45" r="1.9">
+      <animate attributeName="opacity" begin="15.1s" dur="1.9s" values="0.15;1;0.15" repeatCount="indefinite" />
+    </circle>
+    <circle cx="872" cy="34" r="1.7">
+      <animate attributeName="opacity" begin="14.9s" dur="2.5s" values="0.1;1;0.1" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1060" cy="55" r="2">
+      <animate attributeName="opacity" begin="15.4s" dur="2.3s" values="0.2;1;0.2" repeatCount="indefinite" />
+    </circle>
+  </g>
+</svg>
