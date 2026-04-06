@@ -1,32 +1,47 @@
 <h1 align="center">Erden Erim Aydoğdu</h1>
-<p align="center"><b>Frontend Developer • Creative UI Engineer • WebGL/3D</b></p>
-<p align="center">Benim işim: görseli güçlü, performansı ölçülebilir, hissiyatı olan arayüzler üretmek.</p>
+<p align="center"><b>Elektrik-Elektronik Mühendisi • Çözüm Mimarı • AI/XR/IoT & Full-Stack Sistemler</b></p>
+<p align="center">Donanımdan buluta uçtan uca sistem kuruyor; yapay zeka, XR, IoT ve web teknolojilerini birlikte kullanıyorum.</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/erimkun/erimkun/master/assets/sky-sequence.svg" width="100%" alt="Gunes batar, ay patlar, hilal kalir ve yildizlar isildar" />
+  <img src="https://raw.githubusercontent.com/erimkun/erimkun/master/assets/sky-sequence.svg" width="100%" alt="Gokyuzu animasyonu: gunes batar, ay cikar, hilal kalir" />
 </p>
 
-## Frontend Odağım
-- React + TypeScript ile sürdürülebilir ve temiz component mimarisi
-- Three.js/WebGL ile etkileşimli 3D deneyim tasarımı
-- FPS, render cost, bundle boyutu ve kullanıcı hissi odaklı performans iyileştirmeleri
-- Ürün tarafında estetik ile mühendisliği birlikte yürüten yaklaşım
+## Profil Özeti
+- Üsküdar Belediyesi KENTAŞ'ta Elektrik-Elektronik Mühendisi olarak Ar-Ge ve yazılım geliştirme yapıyorum.
+- CesiumJS ile Dijital İkiz, Unreal Engine ile XR showroom ve PostGIS tabanlı karar destek sistemleri üzerinde çalışıyorum.
+- Önceki deneyimler: Kafein Yazılım (DevOps stajı), CONSULTA (PLM danışmanlığı).
 
-## Seçili Projeler
-- [Ganged Reality](https://github.com/erimkun/gangedreality): Three.js tabanlı web 3D runtime/editor deneyimi
-- [PanoTour 360](https://github.com/erimkun/panotour): WebXR/VR destekli panoramik tur platformu
-- [Immersive AR](https://github.com/erimkun/AR): Mobil odaklı AR/WebXR keşif deneyimi
-- [Talep AI](https://github.com/erimkun/talepai): LLM destekli analiz ve karar paneli
+## Eğitim
+- Yeditepe Üniversitesi, Elektrik-Elektronik Mühendisliği (İngilizce, burslu) — 2021-2025
+- İstanbul Üniversitesi, Web Tasarımı ve Kodlama (Ön Lisans)
+- Atatürk Üniversitesi, İşletme (Lisans, devam)
 
-## Kullandığım Teknolojiler
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-111111?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
+## Teknik Yetkinlikler
+- AI/ML: LLM, RAG, OCR, vektör tabanlı indeksleme, karar destek
+- XR & Spatial: Unreal Engine, C++, WebXR, Three.js
+- Veri/CBS: PostGIS, MapLibre, CesiumJS
+- Yazılım & Sistem: Full-Stack web, DevOps, sistem entegrasyonu
+
+## Öne Çıkan Projeler
+- **Digital Showroom XR Ecosystem**: Unreal Engine + C++ ile masaüstü/VR simülasyonu, Three.js + Next.js ile web tabanlı 3D editör, WebXR ile AR/VR deneyimi.
+- **Sayıştay Denetim Analiz & Karar Destek**: OCR, vektör indeksleme ve MCP ile dış veri kaynaklarına güvenli erişim sunan çok katmanlı AI mimarisi.
+- **Talep AI**: Vatandaş taleplerini analiz edip yerel yönetimlere stratejik aksiyon önerileri sunan, LLM API + MapLibre/GIS tabanlı platform.
+- **Gezelim App**: Google POI verileri üzerinde AI süzgeci, dinamik rota oluşturma ve oyunlaştırma özellikleri içeren akıllı seyahat uygulaması.
+- **AI Destekli MOSFET Yükselteç Tasarımı**: Analog devre parametrelerini optimize eden CNN tabanlı yaklaşım.
+- **AI Stratejik Masa Oyunu**: Q-Learning kullanan pekiştirmeli öğrenme ajanı ve React tabanlı web arayüzü.
+
+## Sertifikalar
+- Epic Games: Unreal Engine XR Development
+- University of Michigan: WebXR
+- University of Colorado: C++ for Unreal
+- Deep Learning with PyTorch
+- DeepLearning.AI: Neural Networks
+- Project Management Foundations
+
+## Diller
+- İngilizce: C1
+- Almanca: A2
+- İspanyolca: A1
 
 ## GitHub İstatistik
 <p align="center">
@@ -37,5 +52,4 @@
 ## İletişim
 - LinkedIn: https://www.linkedin.com/in/erden-erim-aydo%C4%9Fdu/
 - E-posta: erdennilsu1965@gmail.com
-
-<p align="center"><sub>UI bir ekran degil, yasayan bir deneyimdir.</sub></p>
+- GitHub: https://github.com/erimkun
