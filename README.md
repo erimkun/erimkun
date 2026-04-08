@@ -17,7 +17,7 @@ Yeditepe Üniversitesi Elektrik-Elektronik Mühendisliği mezunuyum. KENTAŞ den
 
 ## Seçili İşler
 - Digital Showroom XR: Unreal Engine, C++ ve WebXR tarafını Next.js + Three.js tabanlı web katmanıyla birleştiren çok platformlu showroom ekosistemi.
-- Sayıştay AI: OCR, vektör indeksleme ve güvenli model erişimiyle raporları okunabilir, sorgulanabilir ve aksiyon üretir hale getiren analiz altyapısı.
+- Docs AI: OCR, vektör indeksleme ve güvenli model erişimiyle raporları okunabilir, sorgulanabilir ve aksiyon üretir hale getiren analiz altyapısı.
 - Talep AI: LLM ve GIS verisini bir araya getirerek mahalle bazlı talepleri stratejik kararlara dönüştüren yerel yönetim platformu.
 - Gezelim App: AI destekli rota, POI seçimi ve oyunlaştırma yaklaşımıyla seyahat deneyimini sadeleştiren akıllı uygulama.
 - AI Destekli MOSFET Yükselteç Tasarımı: Analog devre optimizasyonunu CNN ile otomatikleştiren, donanım ile yapay zekayı aynı hatta buluşturan çalışma.
@@ -30,11 +30,10 @@ Yeditepe Üniversitesi Elektrik-Elektronik Mühendisliği mezunuyum. KENTAŞ den
   <a href="https://github.com/erimkun"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-## Animasyon Akışı
-`icon.svg` içinde önce küp yüzeyine yazılar oturuyor. Ardından ışık süzmesi merkeze doğru akıyor, orta noktada kısa bir patlama ile dağılıyor ve son karede daha temiz, daha karakterli bir final form bırakıyor.
+
 
 ## GitHub
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=erimkun&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erimkun&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=erimkun&show_icons=true&rank_icon=github&hide_border=false&theme=default&bg_color=ffffff&title_color=111111&text_color=222222&icon_color=0A66C2&cache_seconds=1800" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erimkun&layout=compact&langs_count=8&hide_border=false&theme=default&bg_color=ffffff&title_color=111111&text_color=222222&cache_seconds=1800" alt="Top languages" />
 </p>
