@@ -34,6 +34,6 @@ Yeditepe Üniversitesi Elektrik-Elektronik Mühendisliği mezunuyum. KENTAŞ den
 
 ## GitHub
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=erimkun&show_icons=true&rank_icon=github&hide_border=false&theme=default&bg_color=ffffff&title_color=111111&text_color=222222&icon_color=0A66C2&cache_seconds=1800" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erimkun&layout=compact&langs_count=8&hide_border=false&theme=default&bg_color=ffffff&title_color=111111&text_color=222222&cache_seconds=1800" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=erimkun&show_icons=true&rank_icon=github&hide_border=false&theme=default&bg_color=ffffff&title_color=111111&text_color=222222&icon_color=0A66C2&cache_seconds=1800" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=erimkun&layout=compact&langs_count=8&hide_border=false&theme=default&bg_color=ffffff&title_color=111111&text_color=222222&cache_seconds=1800" alt="Top languages" />
 </p>
