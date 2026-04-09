@@ -18,7 +18,7 @@ Yeditepe Üniversitesi Elektrik-Elektronik Mühendisliği mezunuyum. KENTAŞ den
 ## Seçili İşler
 - Digital Showroom XR: Unreal Engine, C++ ve WebXR tarafını Next.js + Three.js tabanlı web katmanıyla birleştiren çok platformlu showroom ekosistemi.
 - Docs AI: OCR, vektör indeksleme ve güvenli model erişimiyle raporları okunabilir, sorgulanabilir ve aksiyon üretir hale getiren analiz altyapısı.
-- Talep AI: LLM ve GIS verisini bir araya getirerek mahalle bazlı talepleri stratejik kararlara dönüştüren yerel yönetim platformu.
+- Sol AI: LLM ve GIS verisini bir araya getirerek mahalle bazlı talepleri stratejik kararlara dönüştüren platform.
 - Gezelim App: AI destekli rota, POI seçimi ve oyunlaştırma yaklaşımıyla seyahat deneyimini sadeleştiren akıllı uygulama.
 - AI Destekli MOSFET Yükselteç Tasarımı: Analog devre optimizasyonunu CNN ile otomatikleştiren, donanım ile yapay zekayı aynı hatta buluşturan çalışma.
 - AI Stratejik Masa Oyunu: Q-Learning ile karar veren ajanı React arayüzüne bağlayan, öğrenen sistemlere odaklanan deneysel proje.
